@@ -14,7 +14,7 @@ WaraqDz is an AI-powered automation workflow built using n8n that transforms use
 
 User sends a simple request:
 
-> "I need a Passeport Biométrique"
+> "Demande passeport biométrique"
 
 System automatically:
 
